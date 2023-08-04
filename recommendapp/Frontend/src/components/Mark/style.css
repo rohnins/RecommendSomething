@@ -1,0 +1,15 @@
+.mark {
+  border-radius: 16px;
+  height: 56px;
+  overflow: hidden;
+  position: relative;
+  width: 56px;
+}
+
+.mark .blur {
+  height: 40px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 40px;
+}

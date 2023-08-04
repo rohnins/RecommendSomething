@@ -1,0 +1,12 @@
+.logo {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  position: relative;
+}
+
+.logo .zero {
+  height: 25.44px;
+  position: relative;
+  width: 85.07px;
+}

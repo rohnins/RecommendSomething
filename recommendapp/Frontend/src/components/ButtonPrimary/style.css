@@ -1,0 +1,26 @@
+.button-primary {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(0, 234, 135) 0%, rgb(120.06, 203.44, 255) 100%);
+  border-radius: 16px;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 16px 20px;
+  position: relative;
+  width: 142px;
+}
+
+.button-primary .label {
+  color: var(--dayfilltext);
+  font-family: var(--label-medium-600-font-family);
+  font-size: var(--label-medium-600-font-size);
+  font-style: var(--label-medium-600-font-style);
+  font-weight: var(--label-medium-600-font-weight);
+  letter-spacing: var(--label-medium-600-letter-spacing);
+  line-height: var(--label-medium-600-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
